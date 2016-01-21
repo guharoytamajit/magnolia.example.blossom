@@ -1,6 +1,6 @@
 # magnolia.example.blossom
 
-This is an Magnolia CMS example project which use blossom.
+This is a Magnolia CMS example project which use blossom.
 
 ## General
 

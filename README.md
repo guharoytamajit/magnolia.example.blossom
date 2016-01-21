@@ -1,12 +1,13 @@
 # magnolia.example.blossom
 
-This is a Magnolia CMS example project which use blossom.
+This is a Magnolia CMS example project which uses blossom for Spring Framework integration.
 
 ## General
 
 For additional information please have a look at:
 
 * https://documentation.magnolia-cms.com/display/DOCS/Magnolia+5.4+documentation
+* https://documentation.magnolia-cms.com/display/DOCS/Blossom+module
 * https://documentation.magnolia-cms.com/display/DOCS/Getting+started+with+Blossom
 
 ## System Setup

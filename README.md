@@ -22,14 +22,14 @@ For additional information please have a look at:
 
 mvn archetype:generate -DarchetypeCatalog=https://nexus.magnolia-cms.com/content/groups/public/
 
-archetype = 5 = magnolia.example.basics
-archetype version = 4 = 1.2.2
+* archetype = 5 = magnolia.example.basics
+* archetype version = 4 = 1.2.2
 
-groupId = org.dynamosoft.projects
-artifactId = magnolia.example.blossom
-version = 1.0-SNAPSHOT
-package = org.dynamosoft.projects
-magnolia-version 5.4.3
-project-name = magnolia.example.blossom
+* groupId = org.dynamosoft.projects
+* artifactId = magnolia.example.blossom
+* version = 1.0-SNAPSHOT
+* package = org.dynamosoft.projects
+* magnolia-version = 5.4.3
+* project-name = magnolia.example.blossom
 
-Y = to procced
+* Y = to procced

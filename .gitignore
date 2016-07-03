@@ -26,3 +26,10 @@ buildNumber.properties
 ##jrebel##
 rebel.xml
 
+magnolia.example.blossom-blossom/.classpath
+magnolia.example.blossom-blossom/.project
+.project
+.settings/org.eclipse.m2e.core.prefs
+magnolia.example.blossom-blossom/.settings/org.eclipse.jdt.core.prefs
+magnolia.example.blossom-webapp/.classpath
+magnolia.example.blossom-webapp/.settings/org.eclipse.jdt.core.prefs

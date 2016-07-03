@@ -86,6 +86,11 @@
           <target>${javaVersion}</target>
         </configuration>
       </plugin>
+	  <plugin>
+            <groupId>org.apache.tomcat.maven</groupId>
+            <artifactId>tomcat7-maven-plugin</artifactId>
+            <version>2.0</version>
+        </plugin>
     </plugins>
 
     <!-- default resources configuration which will filter your module descriptors -->
